@@ -24,10 +24,16 @@
 		text-align: center;
 		
 		@mixin atSmall {
+<<<<<<< HEAD
 			text-align: left;		   
 			margin-top: 1em;
 			font-size: 1.875rem;
 			
+=======
+			margin-top: 1em;
+			font-size: 1.875rem;
+			text-align: left;
+>>>>>>> our-features
 		}
 	}
 }
